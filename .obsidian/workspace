@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "9db2dc54410d678b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e07ef47eb1a5564",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "go/go.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff82ccc38922a6ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e88cae76731ab7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a389fa434c36255",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19a7b0046215304a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b38a518f985e65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab23da22ef5bece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2007424baea411dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "go/go.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e07ef47eb1a5564",
+  "lastOpenFiles": [
+    "go/go.md",
+    "go/格式化输出.md",
+    "go/go 中的指针.md",
+    "go/go 基本命令.md",
+    "go/命名规则.md",
+    "go/go 中的零值.md",
+    "English/english word.md",
+    "进食减肥.md",
+    "Five Whys.md",
+    "徐云流bgm.md"
+  ]
+}
