@@ -50,7 +50,20 @@ complex64 complex128
 
 ### 结构体
 一个结构体（struct）就是一组字段（field）
+```go
+struct {
+	field1 string // 字段名称 字段类型
+	field2 string
+}
+```
 
+### 类型定义
+类型定义允许你自己创建新的类型。你可以基于基础类型来创建新的定义类型。
+```go
+type myType struct {
+	// fields here
+}
+```
 ### 切片
 
 每个数组的大小都是固定的。而切片则为数组元素提供动态大小的、灵活的视角。在实践中，切片比数组更常用。
