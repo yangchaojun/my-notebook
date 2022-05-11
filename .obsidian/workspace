@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "go/go.mod.md",
+            "file": "进食减肥.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/go.mod.md",
+                "file": "进食减肥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "5e07ef47eb1a5564",
   "lastOpenFiles": [
+    "进食减肥.md",
     "go/go.mod.md",
     "go/go 中的零值.md",
     "go/go 基本命令.md",
@@ -98,7 +99,6 @@
     "go/go 中的指针.md",
     "go/go.md",
     "go/格式化输出.md",
-    "go/命名规则.md",
-    "English/english word.md"
+    "go/命名规则.md"
   ]
 }

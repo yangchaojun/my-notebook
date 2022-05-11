@@ -23,7 +23,6 @@
 - 在 drafting 阶段不用管语法，格式之类的问题
 - 将注意力集中到你想表达的想法上，并思考如何组织它
 - **直接说到点子上**
-- 直接说到点子上
 - To keep things clear and readable: 直接陈述主要观点，之后在解释。
 - To keep things clear and readable: 将主要观点直接放在每一段的第一句
 - K.I.S.S (Keep it simple, stupid!) 总是使用最简单，最清晰的语言。
