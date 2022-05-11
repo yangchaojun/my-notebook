@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "进食减肥.md",
+            "file": "react/基础.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "进食减肥.md",
+                "file": "react/基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "5e07ef47eb1a5564",
   "lastOpenFiles": [
+    "react/基础.md",
     "进食减肥.md",
     "go/go.mod.md",
     "go/go 中的零值.md",
@@ -98,7 +99,6 @@
     "go/go 数组与切片.md",
     "go/go 中的指针.md",
     "go/go.md",
-    "go/格式化输出.md",
-    "go/命名规则.md"
+    "go/格式化输出.md"
   ]
 }
