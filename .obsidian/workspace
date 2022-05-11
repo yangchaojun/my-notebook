@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "go/新建工作区.md",
+            "file": "go/go.mod.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/新建工作区.md",
+                "file": "go/go.mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "5e07ef47eb1a5564",
   "lastOpenFiles": [
-    "go/新建工作区.md",
-    "系统/设置环境变量.md",
-    "系统/vim cheetsheet.md",
-    "go/goruntine 和 channel.md",
-    "go/接口.md",
-    "go/go 中的零值.md",
     "go/go.mod.md",
+    "go/go 中的零值.md",
     "go/go 基本命令.md",
+    "go/新建工作区.md",
+    "go/go 数组与切片.md",
+    "go/go 中的指针.md",
     "go/go.md",
-    "go/go 数组与切片.md"
+    "go/格式化输出.md",
+    "go/命名规则.md",
+    "English/english word.md"
   ]
 }
