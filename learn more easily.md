@@ -48,3 +48,8 @@ Epistemology is the study of how to acquire knowledge by observing the world aro
 2. Use a suitable learning strategy. 
 3. Insist on clear understanding. 
 4. Organize the knowledge for yourself.
+
+## 学习技巧
+1. 对旧事物进行大量的练习
+
+2. 努力学习你感兴趣的东西
