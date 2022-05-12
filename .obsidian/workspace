@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "技巧/插件.md",
+=======
+            "file": "react/基础.md",
+>>>>>>> ecff279286ef2f4cc079ddfcf600dd4cfedc11e5
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +74,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "技巧/插件.md",
+=======
+                "file": "react/基础.md",
+>>>>>>> ecff279286ef2f4cc079ddfcf600dd4cfedc11e5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +98,7 @@
   },
   "active": "5e07ef47eb1a5564",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "技巧/插件.md",
     "learn more easily.md",
     "技巧/JS技巧.md",
@@ -100,5 +109,17 @@
     "English/english word.md",
     "English/语法.md",
     "技巧/vim cheetsheet.md"
+=======
+    "react/基础.md",
+    "进食减肥.md",
+    "go/go.mod.md",
+    "go/go 中的零值.md",
+    "go/go 基本命令.md",
+    "go/新建工作区.md",
+    "go/go 数组与切片.md",
+    "go/go 中的指针.md",
+    "go/go.md",
+    "go/格式化输出.md"
+>>>>>>> ecff279286ef2f4cc079ddfcf600dd4cfedc11e5
   ]
 }
