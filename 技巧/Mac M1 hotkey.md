@@ -1,0 +1,1 @@
+`command + ctrl + F`: 全屏
