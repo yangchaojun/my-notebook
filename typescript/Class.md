@@ -1,0 +1,1 @@
+Class 中的 Readonly 修饰符，在 field 前添加 readonly，意味着无法在除了 constructor 方法之外修改修饰的 field 属性。
